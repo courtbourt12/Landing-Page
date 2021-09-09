@@ -1,0 +1,45 @@
+#pic {
+    border: 25px solid lightblue;
+    position: relative;
+    left: 300px;
+    bottom: 205px;
+    height: 150px;
+}
+
+.Thanks {
+    text-align: center;
+    color: lightcoral;
+}
+
+.information {
+    border: 5px solid black;
+    
+}
+
+.Unknown {
+    width:100%;
+}
+
+.inline {
+    display:inline;
+    margin-left:300px;
+    margin-right: 300px;
+}
+
+#Contact {
+    color: white;
+    background-color: darkgrey;
+    border: 5px solid darkgrey;
+}
+
+#Us {
+    color: white;
+    background-color: darkgrey;
+    border: 5px solid darkgrey;
+}
+
+#Fun {
+    color: white;
+    background-color: darkgrey;
+    border: 5px solid darkgrey;
+}
